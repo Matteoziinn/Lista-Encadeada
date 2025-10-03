@@ -50,7 +50,3 @@ Copiar código
 
 ---
 
-## 👨‍💻 Autores
-- Matteo Souza Caetano  
-- Matheus Borges  
-- Adson de Oliveira
